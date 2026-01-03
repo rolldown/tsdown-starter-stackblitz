@@ -1,7 +1,7 @@
 {
   "name": "tsdown-starter-stackblitz",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.24.0",
+  "packageManager": "pnpm@10.27.0",
   "description": "tsdown starter for StackBlitz",
   "type": "module",
   "license": "MIT",
@@ -9,11 +9,9 @@
   "files": [
     "dist"
   ],
-  "main": "./dist/index.js",
-  "module": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "types": "./dist/index.d.mts",
   "exports": {
-    ".": "./dist/index.js",
+    ".": "./dist/index.mjs",
     "./package.json": "./package.json"
   },
   "scripts": {
