@@ -1,7 +1,7 @@
 {
   "name": "tsdown-starter-stackblitz",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.33.0",
   "description": "tsdown starter for StackBlitz",
   "type": "module",
   "license": "MIT",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "tsdown": "latest",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   },
   "stackblitz": {
     "installDependencies": false,
