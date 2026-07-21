@@ -14,4 +14,4 @@ tsdown starter for StackBlitz.
 
 ## License
 
-[MIT](./LICENSE) License © 2025 [Kevin Deng](https://github.com/sxzz)
+[MIT](./LICENSE) License © 2025-PRESENT [Kevin Deng](https://github.com/sxzz)
