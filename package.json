@@ -27,6 +27,8 @@
     "startCommand": "pnpm i && pnpm build"
   },
   "resolutions": {
-    "rolldown": "npm:@rolldown/browser@latest"
+    "rolldown": "npm:@rolldown/browser@latest",
+    "yuku-parser": "npm:@yuku-parser/wasm@latest",
+    "yuku-codegen": "npm:@yuku-codegen/wasm@latest"
   }
 }
